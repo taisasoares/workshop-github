@@ -3,6 +3,5 @@
 ## Participantes
 
 - Taisa Soares
-- Barbie
 
 <!-- Adicione seu nome aqui! -->
