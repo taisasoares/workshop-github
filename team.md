@@ -3,6 +3,6 @@
 ## Participantes
 
 - Taisa Soares
+- Fabianne Costa
 - Isabelli Mocci
 
-<!-- Adicione seu nome aqui! -->
